@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>👋 Hi, I’m @PoojithaGowda10<br><br>👀 I’m interested in coding<br><br>🌱 I’m currently learning Flutter<br><br>📫 Reach out to me at poojitha953810@gmail.com<br><br>😄 Pronouns: Let's develop my skills
+<br>👋 Hi, I’m @PoojithaGowda10<br><br>👀 I’m interested in coding<br><br>🌱 I’m currently learning Data Structure And Algorithms<br><br>📫 Reach out to me at poojitha953810@gmail.com<br><br>😄 Pronouns: Let's develop my skills
 
 
 # 💻 Tech Stack:
